@@ -1,6 +1,5 @@
 const assert = require("assert");
 const fetch = require("node-fetch");
-// comment
 
 suite("About page", function () {
     test("Page title", async function () {
